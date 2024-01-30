@@ -28,11 +28,11 @@ CSCI 5709 Tutorials](https://git.cs.dal.ca/shreyak/csci-5709-tutorials)
 | Name           | Branch Link                           |
 | -------------- | ------------------------------------- |
 | Shreya Lapoor       | [shreya-branch](https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/shreya-kapoor?ref_type=heads)       |
-| Ramandeep Kaur     | [ramandeep-branch](https://github.com/user/repo/tree/jane-branch)       |
-| Vishnu Narayanbhai Vasita   | [vishnu-branch](https://github.com/user/repo/tree/alex-branch)       |
-| Bhargav Kanodiya  | [bhargav-branch](https://github.com/user/repo/tree/alex-branch)       |
-| Jaskaran Singh   | [jaskaran-branch](https://github.com/user/repo/tree/alex-branch)       |
-| Dhrumil Vimalbhai Gosaliya   | [dhrumil-branch](https://github.com/user/repo/tree/alex-branch)       |
+| Ramandeep Kaur     | [ramandeep-branch](https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/feature-ramandeepkaur?ref_type=heads)       |
+| Vishnu Narayanbhai Vasita   | [vishnu-branch](https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/vishnu?ref_type=heads)       |
+| Bhargav Kanodiya  | [bhargav-branch](https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/Bhargav-Kanodiya?ref_type=heads)       |
+| Jaskaran Singh   | [jaskaran-branch](https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/jaskaran-singh?ref_type=heads)       |
+| Dhrumil Vimalbhai Gosaliya   | [dhrumil-branch](https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/dhrumil-gosaliya?ref_type=heads)       |
 
 
 ## Deployment
